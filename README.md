@@ -1,7 +1,2 @@
-Hallo Abenteurer,
-
-Du hast das erste Rätsel erfolgreich gelöst, findest jedoch niemals den weiteren Weg.
-
-✨
-
-Philipp
+Der Weihnachtsmann schickt einen Wichtel in den Keller,
+um schnell vier gleichfarbige Kerzen für den Adventskranz zu holen.
